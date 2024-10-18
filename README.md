@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paulo Melo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ph-melo&color=yellow" alt="Profile views" /> </p>
 
-- 💻 Software Engineer
+- 💻 Software Developer
 
 - 💼 I’m currently working at [Telefónica](https://github.com/telefonica)
 
